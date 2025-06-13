@@ -11,5 +11,5 @@ Công cụ bắt gói tin
 
 2.
 ```bash
-    python3 cuc3.py
+    python3 final.py
 ```
